@@ -55,10 +55,8 @@ We’ll walk through the app like a live demo 🚀
 * *Frontend*: React 18 + TypeScript, Tailwind CSS, Lucide Icons, Vite
 * *AI & Analytics*: NLP-based sentiment analysis + recommendation engine
 * *Security*: Local storage + client-side AES-256 encryption
-
- 🚀 Live Demo
-
-🔗(https://your-deployment-url.com)*
+Live Demo
+[https://wtbxvljuqc9tbr0upx9mla2ut.bolt.host]
 
  Demo Flow
 
