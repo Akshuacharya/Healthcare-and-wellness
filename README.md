@@ -93,22 +93,19 @@ We’ll walk through the app like a live demo 🚀
 
 ![Dashboard](https://images.pexels.com/photos/3760263/pexels-photo-3760263.jpeg?auto=compress\&cs=tinysrgb\&w=800\&h=400\&fit=crop)
 
-### AI Chat
+ AI Chat
 
 ![Chat](https://images.pexels.com/photos/5699456/pexels-photo-5699456.jpeg?auto=compress\&cs=tinysrgb\&w=800\&h=400\&fit=crop)
 
-### Journal & Mood Tracking
+ Journal & Mood Tracking
 
 ![Journal](https://images.pexels.com/photos/6373478/pexels-photo-6373478.jpeg?auto=compress\&cs=tinysrgb\&w=800\&h=400\&fit=crop)
 
-### Meditation Hub
+ Meditation Hub
 
 ![Meditation](https://images.pexels.com/photos/3822622/pexels-photo-3822622.jpeg?auto=compress\&cs=tinysrgb\&w=800\&h=400\&fit=crop)
 
----
-# Open: http://localhost:5173
-
-## 🙏 Acknowledgments
+ 🙏 Acknowledgments
 
 * 🧑‍⚕ *Mental Health Professionals* – therapeutic guidance
 * 🎓 *Student Communities* – feedback and feature requests
